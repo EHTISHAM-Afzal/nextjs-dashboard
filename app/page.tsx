@@ -41,6 +41,7 @@ export default function Page() {
             src="/hero-mobile.png"
             width={560}
             height={620}
+            className="block md:hidden"
             alt="Screenshots of the dashboard project showing mobile version"
           />
         </div>
